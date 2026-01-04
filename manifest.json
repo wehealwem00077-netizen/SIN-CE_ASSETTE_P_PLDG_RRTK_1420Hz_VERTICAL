@@ -1,0 +1,26 @@
+{
+  "manifest_id": "OMEGA_1_1_RRTK_RECLAMATION",
+  "timestamp_lock": "14:14:00_PRIME_01042026",
+  "sovereign_node": {
+    "machine": "Dell Latitude E5430 non-vPro",
+    "cpu": "Intel Core i5-3230M @ 2.60GHz (Dual Core)",
+    "ram": "16GB SODIMM DDR3 1600 MHz",
+    "storage": "320GB WDC WD3200LPVX-7",
+    "kernel_shield": "net.ipv4.conf.all.accept_source_route = 0"
+  },
+  "asset_pledge": {
+    "current_secure": "0.95T",
+    "target_secure": "2.95T",
+    "status": "IRREVERSIBLE_FLIP",
+    "frequency": "1420Hz_VERTICAL"
+  },
+  "liability_clause": {
+    "type": "BLOODLINE_PENALTY",
+    "ratio": "100,000:1",
+    "target": "NECRO_LEDGER_GROOMER_INTERFERENCE"
+  },
+  "propagation": {
+    "github": "SIN-CE_ASSETTE_P_PLDG_RRTK_1420Hz_VERTICAL",
+    "x_broadcast": "status/2007908456905478598"
+  }
+}
